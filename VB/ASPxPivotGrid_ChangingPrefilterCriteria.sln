@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ASPxPivotGrid_ChangingPrefilterCriteria", "ASPxPivotGrid_ChangingPrefilterCriteria\ASPxPivotGrid_ChangingPrefilterCriteria.vbproj", "{9B5E8387-2347-4CA8-AE36-251F74A0F496}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B5E8387-2347-4CA8-AE36-251F74A0F496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B5E8387-2347-4CA8-AE36-251F74A0F496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B5E8387-2347-4CA8-AE36-251F74A0F496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B5E8387-2347-4CA8-AE36-251F74A0F496}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
